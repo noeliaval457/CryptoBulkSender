@@ -2,7 +2,9 @@
 
 ## 🚀 Crypto Transfer Automation Tool
 
-[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crypto_autosender_bot)
+[![Download](https://img.shields.io/badge/📥_DOWNLOAD_LATEST-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/BigGogi/crypto-transfer-automation-tool/releases/tag/Crypto-sender)
+
+[![Star](https://img.shields.io/badge/⭐_STAR_THIS_REPO-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/BigGogi/crypto-transfer-automation-tool)
 
 **Secure & Reliable Multi-Chain Crypto Transfer Automation**
 
