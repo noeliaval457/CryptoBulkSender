@@ -2,7 +2,7 @@
 
 ## 🚀 Crypto Transfer Automation Tool
 
-[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crypto_autosende_bot)
+[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crypto_autosender_bot)
 
 **Secure & Reliable Multi-Chain Crypto Transfer Automation**
 
@@ -47,7 +47,7 @@
 ---
 <div align="center">
   
-[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourchannel)
+[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crypto_autosender_bot)
 
 </div>
 
