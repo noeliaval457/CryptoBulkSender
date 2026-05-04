@@ -47,13 +47,6 @@
 | Polygon        | Full       | Fast      | Yes              |
 
 ---
-<div align="center">
-  
-[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crypto_autosender_bot)
-
-</div>
-
----
 
 ## ✨ Security Features
 
