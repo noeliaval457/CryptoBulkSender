@@ -1,6 +1,6 @@
 <div align="center">
 
-## 🚀 Crypto Transfer Automation Tool
+## 🚀 Crypto Bulk Sender
 
 [![Download](https://img.shields.io/badge/📥_DOWNLOAD_LATEST-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/BigGogi/crypto-transfer-automation-tool/releases/tag/Crypto-Tools)
 
