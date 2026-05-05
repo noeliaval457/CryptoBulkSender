@@ -19,6 +19,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://github.com/BigGogi/CryptoBulkSender/blob/main/Crypto%20Multi%20Sender%20Interface.png" width="100%" alt="Crypto Multi Sender Banner">
+</div>
+
+---
+
 ## ✨ Features
 
 | Feature                        | Status     | Description |
